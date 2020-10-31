@@ -36,11 +36,9 @@ This will open the iPython Notebook software and tutorial file in your browser.
 ### Data
 The dataset originally came from here: https://github.com/selva86/datasets/blob/master/BostonHousing.csv
 
-**Origin**
-The origin of the boston housing data is Natural.
+**Origin: **The origin of the boston housing data is Natural.
     
-**Number of Cases**
-The dataset contains a total of 506 cases.
+**Number of Cases: **The dataset contains a total of 506 cases.
 
 **Features**
  - CRIM    : per capita crime rate by town.
